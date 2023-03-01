@@ -2,13 +2,13 @@
 
 ![Simple Golang Unit Testing](https://i.ytimg.com/vi/IorsKSduDaM/maxresdefault.jpg)
 
-We will learn about implementing in Golang.
+We will learn about implement unit testing in Golang.
 
 ## Topics :
 - Setting up the Golang Project
 - Defining the Product Entity
 - Connecting to the database
-- Implementing Unit test with 1 feature to find data by ID
+- Implementing Unit test with 1 feature, it's find data by ID
 
 ## Our Step :
 - In the first step, we create an entities to represent the structure of our data in the entity package
